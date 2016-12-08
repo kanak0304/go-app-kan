@@ -2,3 +2,5 @@
 applications:
 - name: go-app-kan
   memory: 64M
+  env:
+    GOPACKAGENAME: go-app-kan
