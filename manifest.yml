@@ -1,0 +1,4 @@
+---
+applications:
+- name: go-app-kan
+  memory: 64M
