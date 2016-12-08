@@ -1,5 +1,5 @@
 ---
 applications:
-- name: go-app-kan
+- name: simple-go-web-app
   memory: 64M
   buildpack: go_buildpack
